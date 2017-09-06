@@ -9,9 +9,10 @@ Requirements:
 1. Netbeans 8.1
 2. Struts 2
 3. Apache Tiles
-4. Spring Security 4
-5. Maven
-6. Glassfish
+4. jQuery-2.2.3.min.js
+5. Spring Security 4
+6. Maven
+7. Glassfish
 
 *No database needed
 
